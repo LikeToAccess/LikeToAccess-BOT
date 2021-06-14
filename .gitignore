@@ -8,6 +8,7 @@ __pycache__/
 
 *.exe
 song.mp3
+token.txt
 
 # Distribution / packaging
 .Python
